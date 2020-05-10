@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Parcial2</string>
+    <string name="tv6">NOMBRE</string>
+    <string name="tv5">CEDULA</string>
+    <string name="tv1">REGISTRO DE PERSONA</string>
+    <string name="tv2">ESTRATO</string>
+    <string name="tv3">SALARIO</string>
+    <string name="tv4">EDUCACION MAX</string>
+    <string name="button">GUARDAR</string>
+    <string name="button2">BUSCAR</string>
+    <string name="button3">LISTADO</string>
+    <string name="txtcedula">ej: 1234567</string>
+    <string name="txtnombre">ej: Pedro Perez</string>
+    <string name="txtsalario">ej: 1000000</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="eliminar">Eliminar</string>
+</resources>

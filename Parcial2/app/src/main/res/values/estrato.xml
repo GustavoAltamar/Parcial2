@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="estrato">
+        <item>Estrato 1</item>
+        <item>Estrato 2</item>
+        <item>Estrato 3</item>
+        <item>Estrato 4</item>
+        <item>Estrato 5</item>
+        <item>Estrato 6</item>
+    </string-array>
+
+    <string-array name="nivelEducativo">
+        <item>Bachillerato</item>
+        <item>Pregrado</item>
+        <item>Posgrado</item>
+        <item>Maestria</item>
+        <item>Doctorado</item>
+    </string-array>
+
+</resources>
